@@ -2,20 +2,20 @@
 
 ###What is your name?
 
-Your answer goes here
+Tony Nguyen
 
 ###What is your favorite color?
 
-Your answer goes here
+Grey
 
 ###Cats or Dogs?
 
-Your answer goes here
+Dogs, duh
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
+wine, cheese, sun, my lizady
 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
-Your answer goes here
+Bill Clinton
